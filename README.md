@@ -5,6 +5,6 @@ Linguagens de Programação: Python e SQL,
 Desenvolvimento de Modelos de Machine Learning,
 Análise de Dados,
 RPA (Automação de Processos Robóticos),
-Business Intelligence,
+Business Intelligence e
 Power BI.
 Fique à vontade para explorar meus repositórios e projetos!
