@@ -2,7 +2,7 @@ Olá! Me chamo Pietra, sou uma Cientista de Dados apaixonada por transformar dad
 
 > Aqui estão algumas das minhas habilidades principais:
 
-*Hard Skills*
+## *Hard Skills*
 
 * Linguagens de Programação: Python e SQL
 * Desenvolvimento de Modelos de Machine Learning
@@ -11,7 +11,7 @@ Olá! Me chamo Pietra, sou uma Cientista de Dados apaixonada por transformar dad
 * Business Intelligence
 * Power BI
 
-*Soft Skills*
+## *Soft Skills*
 
 * Comunicação (Verbal e Escrita)
 * Trabalho em Equipe
