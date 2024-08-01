@@ -7,7 +7,7 @@ Olá! Me chamo Pietra, sou uma Cientista de Dados apaixonada por transformar dad
 * Linguagens de Programação: Python e SQL
 * Desenvolvimento de Modelos de Machine Learning
 * Análise de Dados
-* RPA (Automação de Processos Robóticos),
+* RPA (Automação de Processos Robóticos)
 * Business Intelligence
 * Power BI
 
