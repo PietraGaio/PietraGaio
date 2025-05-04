@@ -9,7 +9,6 @@ Olá! Me chamo Pietra, sou uma Cientista de Dados apaixonada por transformar dad
 * Análise de Dados
 * RPA (Automação de Processos Robóticos)
 * Business Intelligence
-* Power BI
 
 ## *Soft Skills*
 
